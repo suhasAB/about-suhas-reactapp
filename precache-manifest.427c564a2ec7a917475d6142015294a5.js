@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "25f6678100e859cea6c7",
-    "url": "/about-suhas-reactapp/static/css/main.b4e90042.chunk.css"
+    "revision": "0447f03076f9f77cc07b",
+    "url": "/about-suhas-reactapp/static/css/main.014b6e61.chunk.css"
   },
   {
-    "revision": "25f6678100e859cea6c7",
+    "revision": "0447f03076f9f77cc07b",
     "url": "/about-suhas-reactapp/static/js/main.d4f0057a.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/about-suhas-reactapp/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "715d5fa5762be650850f6f48b575813e",
+    "revision": "daa052b5f3f93ee3e7d68b4e3a9405db",
     "url": "/about-suhas-reactapp/index.html"
   }
 ];
